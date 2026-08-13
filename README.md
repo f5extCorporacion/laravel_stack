@@ -215,11 +215,6 @@ npm run test
 - **Best Practices**: Following Laravel and PHP standards
 - **Community**: Active discussion and updates
 
-## 📄 License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## 🏆 Features Checklist
 
 - ✅ User CRUD operations
 - ✅ Role & Permission management
@@ -235,6 +230,4 @@ This project is open-sourced software licensed under the [MIT license](https://o
 - ✅ Clean DDD architecture
 - ✅ Production-ready configuration
 
----
 
-**Ready to build your next application on a solid foundation? This boilerplate eliminates months of development time while providing enterprise-grade security and scalability.**
